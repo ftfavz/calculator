@@ -1,0 +1,27 @@
+.one,.two,.three,.five,.six,.seven,.nine,.ten,.eleven,.zero{
+    background-color: rgba(245, 240, 247, 0.966);
+}
+.four{
+    background-color: black;
+}
+.main{
+    background-color: black;
+}
+.ac{
+    color: white;
+    background-color: rgb(187,97,121);
+
+}
+.calc{
+    color:white ;
+}
+.equal{
+    color: white;
+}
+.fav{
+    color: white;
+    background-color:rgb(245,136,28);
+}
+.clr{
+    background-color:white;
+}
